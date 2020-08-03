@@ -13,6 +13,7 @@ the channel, I will not do anything to your server other
 than add the bot. I dont have the time nor effort to destroy 
 channels.
 
+THIS VERY SMALL TOS IS SUBJECT TO CHANGE
 
 # How To Use TemTem-Bot
 
