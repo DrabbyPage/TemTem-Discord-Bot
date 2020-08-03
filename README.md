@@ -1,4 +1,21 @@
 # TemTem-Discord-Bot
+
+CREATED BY DrabbyPage
+
+IF YOU ARE USING THIS BOT YOU AGREE TO THE FOLLOWING: 
+I will be using your discord tag and your discord ID number i wont 
+be doing anything with these other than storing it for accounts 
+for the bot
+
+If youd like the bot in your channel: 
+Message DrabbyPage#1267 and make them an administrator of 
+the channel, I will not do anything to your server other 
+than add the bot. I dont have the time nor effort to destroy 
+channels.
+
+
+# How To Use TemTem-Bot
+
 To start you can find how everything works in the !info
 
 !info:
@@ -118,14 +135,4 @@ Here are the starting commands:
         For list of names !info tempedia {command} {subCommand} names
 
 
-IF YOU ARE USING THIS BOT YOU AGREE TO THE FOLLOWING: 
-I will be using your discord tag and your discord ID number i wont 
-be doing anything with these other than storing it for accounts 
-for the bot
-
-If youd like the bot in your channel: 
-Message DrabbyPage#1267 and make them an administrator of 
-the channel, I will not do anything to your server other 
-than add the bot. I dont have the time nor effort to destroy 
-channels.
 
